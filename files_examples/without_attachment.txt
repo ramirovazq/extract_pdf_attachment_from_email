@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=001a11c1d71697c7f004e6856996
+From: Bob <bob@example.com>
+To: Alice <alice@example.com>
+Subject: hello, world
+Date: Mon, 16 Sep 2013 12:43:03 -0700
+
+--001a11c1d71697c7f004e6856996
+Content-Type: text/plain; charset=us-ascii
+
+Hello, *Alice*
+
+--001a11c1d71697c7f004e6856996
+Content-Type: text/html; charset=us-ascii
+
+<p>Hello, <b>Alice</b></p>
+
+--001a11c1d71697c7f004e6856996--
+
